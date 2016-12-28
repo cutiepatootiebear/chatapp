@@ -16,7 +16,11 @@
   .hero.landscape {
     color: white; }
   .hero.bridge {
+<<<<<<< HEAD
     background-image: url("img/bridge/gallery-a.JPG");
+=======
+    background-image: url("../img/bridge/full-width.jpg");
+>>>>>>> 5e1d7e83e82a93ba0efdfe3a1cd7ab06aba2a429
     width: 100%; }
 
 .sidebar-wrapper {
@@ -164,7 +168,11 @@
   height: 40px;
   margin-left: 10%;
   margin-right: 10%;
+<<<<<<< HEAD
   width: 80%;
+=======
+  width: 100%;
+>>>>>>> 5e1d7e83e82a93ba0efdfe3a1cd7ab06aba2a429
   padding-bottom: 150px;
   align-items: center;
   display: flex;
